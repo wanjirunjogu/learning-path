@@ -9,4 +9,7 @@
 
 ## Languages
 
-1. python.
+1. Python.
+2. R
+
+## Tools
