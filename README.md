@@ -13,3 +13,13 @@
 2. R
 
 ## Tools
+
+1. Pycharm - Python.
+2. Anaconda Navigator - Spyder, Jupiter Notebook.
+
+
+## Libraries
+
+1. Numpy.
+2. Pandas.
+3. Tensorflow
